@@ -1,0 +1,2 @@
+# LessSecureEnabled
+Python script
